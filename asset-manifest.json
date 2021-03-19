@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dota-training-app/static/css/main.7ed8cd25.chunk.css",
+    "main.js": "/dota-training-app/static/js/main.758e27c9.chunk.js",
+    "main.js.map": "/dota-training-app/static/js/main.758e27c9.chunk.js.map",
+    "runtime-main.js": "/dota-training-app/static/js/runtime-main.aa59eb5d.js",
+    "runtime-main.js.map": "/dota-training-app/static/js/runtime-main.aa59eb5d.js.map",
+    "static/js/2.ef243f9f.chunk.js": "/dota-training-app/static/js/2.ef243f9f.chunk.js",
+    "static/js/2.ef243f9f.chunk.js.map": "/dota-training-app/static/js/2.ef243f9f.chunk.js.map",
+    "index.html": "/dota-training-app/index.html",
+    "static/css/main.7ed8cd25.chunk.css.map": "/dota-training-app/static/css/main.7ed8cd25.chunk.css.map",
+    "static/js/2.ef243f9f.chunk.js.LICENSE.txt": "/dota-training-app/static/js/2.ef243f9f.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/dota-training-app/static/media/dota-bg.af69bed9.png",
+    "static/media/Timer.scss": "/dota-training-app/static/media/trajanpro-bold.3f14e0ff.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa59eb5d.js",
+    "static/js/2.ef243f9f.chunk.js",
+    "static/css/main.7ed8cd25.chunk.css",
+    "static/js/main.758e27c9.chunk.js"
+  ]
+}
