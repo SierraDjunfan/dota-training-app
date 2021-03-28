@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dota-training-app/static/css/main.7ed8cd25.chunk.css",
-    "main.js": "/dota-training-app/static/js/main.6b11153b.chunk.js",
-    "main.js.map": "/dota-training-app/static/js/main.6b11153b.chunk.js.map",
+    "main.js": "/dota-training-app/static/js/main.acf11107.chunk.js",
+    "main.js.map": "/dota-training-app/static/js/main.acf11107.chunk.js.map",
     "runtime-main.js": "/dota-training-app/static/js/runtime-main.aa59eb5d.js",
     "runtime-main.js.map": "/dota-training-app/static/js/runtime-main.aa59eb5d.js.map",
     "static/js/2.ef243f9f.chunk.js": "/dota-training-app/static/js/2.ef243f9f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aa59eb5d.js",
     "static/js/2.ef243f9f.chunk.js",
     "static/css/main.7ed8cd25.chunk.css",
-    "static/js/main.6b11153b.chunk.js"
+    "static/js/main.acf11107.chunk.js"
   ]
 }
